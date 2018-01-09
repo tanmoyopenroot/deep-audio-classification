@@ -1,0 +1,7 @@
+#Ignore Files
+*.npy
+*.h5
+*.p
+
+#Ignore Folder
+/data
